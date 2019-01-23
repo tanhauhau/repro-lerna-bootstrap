@@ -2,7 +2,6 @@
   "name": "@test/package-1",
   "version": "1.0.0",
   "dependencies": {
-    "pkg-up": "2.0.0",
-    "find-pkg": "2.0.0"
+    "pkg-up": "2.0.0"
   }
 }
