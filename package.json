@@ -3,6 +3,8 @@
   "version": "monorepo",
   "private": true,
   "scripts": {
+    "prepublish": "echo \"prepublish\"",
+    "publish": "echo \"publish\"",
     "postpublish": "echo \"postpublish\""
   },
   "devDependencies": {
